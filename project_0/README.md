@@ -34,17 +34,21 @@
 :arrow_up: [к оглавлению](https://github.com/TattaS/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Этапы работы над проектом  
-1. 
+1. Написали код, который предлагает пользователю угадать загаданное компьютером случайное число. (https://github.com/TattaS/sf_data_science/blob/main/project_0/game.py)  
+2. Написали код, который вычисляет среднее количество попыток угадать число методом случайного подбора. (https://github.com/TattaS/sf_data_science/blob/main/project_0/game_v2.py)
+3. Написала код, который вычисляет среднее количество попыток угадать число по алгоритму. (https://github.com/TattaS/sf_data_science/blob/main/project_0/fast_game.py)
 
 :arrow_up:[к оглавлению](https://github.com/TattaS/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Результат
-...
+При случайном подборе компьютер угадывает число в среднем за 101 попытку ( вычислено среднее за 1000 повторений кода )
+По алгоритму компьютер угадвает число в среднем за 8 попыток (вычислено среднее за 1000 повторений кода)
+(https://github.com/TattaS/sf_data_science/blob/main/project_0/game.ipynb)
 
 :arrow_up: [к оглавлению](https://github.com/TattaS/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Выводы
-...
+Использовать алгоритм при угадывании числа значительно выгоднее, чем метод случайного подбора
 
 :arrow_up: [к оглавлению](https://github.com/TattaS/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
